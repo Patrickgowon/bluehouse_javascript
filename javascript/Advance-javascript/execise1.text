@@ -18,7 +18,7 @@ function q2() {
 function q22() {
     alert(a);
 }
-// answer is 0
+// answer is 5
 
 
 //#3
